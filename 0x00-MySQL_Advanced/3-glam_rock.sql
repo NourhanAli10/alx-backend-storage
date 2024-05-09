@@ -8,4 +8,3 @@ WHERE
     style LIKE '%Glam rock%'
 ORDER BY 
     lifespan DESC;
-
